@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "name": "Bread",
+        "price": 1.00
+    },
+    {
+        "id": 2,
+        "name": "Milk",
+        "price": 1.15
+    },
+    {
+        "id": 3,
+        "name": "Cheese",
+        "price": 2.00
+    },
+    {
+        "id": 4,
+        "name": "Beans",
+        "price": 0.73
+    },
+    {
+        "id": 5,
+        "name": "Eggs",
+        "price": 1.89
+    },
+    {
+        "id": 6,
+        "name": "Apple",
+        "price": 0.30
+    },
+    {
+        "id": 7,
+        "name": "Banana",
+        "price": 0.35
+    },
+    {
+        "id": 8,
+        "name": "Orange",
+        "price": 0.50
+    },
+    {
+        "id": 9,
+        "name": "Lemon",
+        "price": 0.45
+    },
+    {
+        "id": 10,
+        "name": "Peach",
+        "price": 0.55
+    },
+    {
+        "id": 11,
+        "name": "Pear",
+        "price": 0.60
+    },
+    {
+        "id": 12,
+        "name": "Pineapple",
+        "price": 1.00
+    },
+    {
+        "id": 13,
+        "name": "Steak",
+        "price": 4.50
+    },
+    {
+        "id": 14,
+        "name": "Chicken",
+        "price": 3.00
+    },
+    {
+        "id": 15,
+        "name": "Turkey",
+        "price": 2.50
+    },
+    {
+        "id": 16,
+        "name": "Pork",
+        "price": 3.00
+    },
+    {
+        "id": 17,
+        "name": "Lamb",
+        "price": 5.00
+    },
+    {
+        "id": 18,
+        "name": "Beef",
+        "price": 4.00
+    },
+    {
+        "id": 19,
+        "name": "Sausage",
+        "price": 1.50
+    }
+]
