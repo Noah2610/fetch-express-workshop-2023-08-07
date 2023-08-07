@@ -1,4 +1,5 @@
 import express from "express";
+import cors from "cors";
 import fs from "fs";
 
 const PORT = 8090;
@@ -6,6 +7,9 @@ const PORT = 8090;
 const app = express();
 
 app.use(express.json());
+app.use(cors({
+    origin: "http://localhost:8080",
+}));
 
 const cartItems = [];
 
